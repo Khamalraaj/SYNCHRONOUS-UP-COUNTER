@@ -27,6 +27,7 @@ The next flip-flop need only “recognize” that the first flip-flop’s Q outp
 However, the remaining flip-flops should be made ready to toggle only when all lower-order output bits are “high,” thus the need for AND gates.
 
 **Truth Table**
+
 ![image](https://github.com/user-attachments/assets/6eb1ff15-801e-425f-8bdb-6614d91ab697)
 
 **Procedure**
