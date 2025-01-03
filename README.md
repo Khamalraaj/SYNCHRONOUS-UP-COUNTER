@@ -61,7 +61,7 @@ Developed by:khamalraaj S RegisterNumber:24901015
 
 ![Screenshot 2024-12-24 143012](https://github.com/user-attachments/assets/dc958cdf-b6b7-448a-824d-0d24f10a84ab)
 
-**TIMING DIAGRAM FOR IP COUNTER**
+**TIMING DIAGRAM FOR UP COUNTER**
 
 ![Screenshot 2024-12-24 144216](https://github.com/user-attachments/assets/d4ae7b29-818b-44ea-96c6-08577e4cecba)
 
